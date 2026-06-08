@@ -1,3 +1,5 @@
+
+![Offer letter ](https://github.com/tushar-de-coder/codealpha_task1_Hangman/blob/6b52324111c2b6a633177f9796703ded3a84532e/Offer%20letter.png)
 🕹️ Hangman Game (Python)
 This is a simple console-based Hangman game built using Python as part of the **CodeAlpha Internship Program**.
 
@@ -5,7 +7,7 @@ This is a simple console-based Hangman game built using Python as part of the **
 **Domain**: Python  
 **Organization**: CodeAlpha  
 **Task**: Build a console-based Hangman game.
-
+**Created by** : Tushar
 
 Welcome to the classic **Hangman** game built using **Python**!  
 This is a simple text-based version of the game where a player tries to guess a hidden word one letter at a time.
@@ -25,3 +27,21 @@ This is a simple text-based version of the game where a player tries to guess a 
 4. Run the game using:
 ```bash
 python hangman.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
