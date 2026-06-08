@@ -12,8 +12,10 @@ This is a simple console-based Hangman game built using Python as part of the **
 **Created by** : Tushar
 
 ** Connect via ** :
-                 1. instagram = @yadav_tushar157
-                 2. linkedin = linkedin.con/in/tushar-44b58740b
+
+                 1. instagram =           @yadav_tushar157
+                 
+                 2. linkedin =            linkedin.com/in/tushar-44b58740b
 
 Welcome to the classic **Hangman** game built using **Python**!  
 This is a simple text-based version of the game where a player tries to guess a hidden word one letter at a time.
